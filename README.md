@@ -4,7 +4,7 @@ This repository contains:
 * Java Full Stack - React
 * GBS Associate Specialty Training - Java Full Stack
 
-## Udemy Training
+## Udemy Training
 * Kubernetes for the Absolute Beginner - Hands-on
 * Core Java Made Easy 
 * Docker for the Absolute Beginner - Hands on - DevOps
