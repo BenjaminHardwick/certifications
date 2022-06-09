@@ -1,8 +1,10 @@
 # Certifications
 This repository contains:
-
+## IBM Training
 * Java Full Stack - React
 * GBS Associate Specialty Training - Java Full Stack
+
+## Udemy Training
 * Kubernetes for the Absolute Beginner - Hands-on
 * Core Java Made Easy 
 * Docker for the Absolute Beginner - Hands on - DevOps
